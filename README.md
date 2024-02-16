@@ -1,6 +1,11 @@
 # Games
 Short mini-games I have made in Python for both enterntainment purposes and to learn the basics of game mechanics in Python
 
+# Games
+1) Hangman  `hangman.py`**
+2) Snake `snake.py`**
+3) Tic-Tac-Toe `tic-tac-toe.py`**
+
 # Getting Started
 You must have:
 1) Python 3.8 or higher.
