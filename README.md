@@ -13,7 +13,7 @@ You must have:
 3) Required Python libraries: pygame, tkinter, numpy (install using pip install -r requirements.txt)
 
 # Installation
-Clone the repository to your local machine: git clone https://github.com/melikeyigitt/Games-in-Python.git
+Clone the repository to your local machine: git clone https://github.com/tiagocm3/Games
 
 # Running the Games
 Running the Games
